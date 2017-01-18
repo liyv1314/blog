@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-**chaosii** is a Tech blog focus on JavaScript,Python,Algorithm etc.
+**chaosii** is a Tech blog focuses on JavaScript,Python,Algorithm etc.
