@@ -1,17 +1,17 @@
 
 # SEO settings
-title: "Think"
-title2: "space" # default: ""
-description: "Just another minimalist Jekyll theme that focuses on technical writing."
-keywords: "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
-url: http://heiswayi.github.io/thinkspace # site url
+title: "chaos"
+title2: "ii" # default: ""
+# description: "Just another minimalist Jekyll theme that focuses on technical writing."
+keywords: "blog,长风逝君怀,前端,chaos,Front-end,liyv1314"
+url: http://liyv1314.github.io/blog # site url
 baseurl: "/blog" # apply repo name if use it under gh-pages branch
 # baseurl: null # apply null if repo name is something like username.github.io
 
 google_analytics: UA-XXXXX-XX
-repo: http://github.com/heiswayi/thinkspace
-disqus_shortname: "heiswayi"
-twitter_username: "HeiswayiNrird"
+repo: http://github.com/liyv1314/blog
+disqus_shortname: "chaos"
+twitter_username: "liyv1314"
 comments: true 
 
 # Build settings
@@ -37,13 +37,14 @@ author:
   url      : http://liyv1314.github.io
   github   : http://github.com/liyv1314
   twitter  : http://twitter.com/liyv1314
-  facebook : https://www.facebook.com/profile.php?id=1257583160
-  linkedin : http://linkedin.com/in/nrird
+  facebook : 
+  linkedin : 
 
 # social settings
 og_locale: "en_US"
-twitter_card: "summary_large_image"
-twitter_site: "@HeiswayiNrird"
+twitter_card: ""
+twitter_site: "@liyv1314"
+
 
 gems:
   - bourbon
