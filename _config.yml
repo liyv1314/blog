@@ -3,6 +3,7 @@
 title: "chaos"
 title2: "ii" # default: ""
 # description: "Just another minimalist Jekyll theme that focuses on technical writing."
+description: "Tech blog"
 keywords: "blog,长风逝君怀,前端,chaos,Front-end,liyv1314"
 url: http://liyv1314.github.io/blog # site url
 baseurl: "/blog" # apply repo name if use it under gh-pages branch
