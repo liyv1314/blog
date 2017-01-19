@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "To be the one you'd like to be"
+title: "To be the one you would like to be"
 comments: true
 description: "To be the one you would like to be"
 keywords: "felling"
