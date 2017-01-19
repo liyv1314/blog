@@ -11,7 +11,7 @@ baseurl: "/blog" # apply repo name if use it under gh-pages branch
 
 google_analytics: UA-XXXXX-XX
 repo: http://github.com/liyv1314/blog
-disqus_shortname: "chaos"
+disqus_shortname: "chaosii"
 twitter_username: "liyv1314"
 comments: true 
 
